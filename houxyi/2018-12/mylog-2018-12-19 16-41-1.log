@@ -1,0 +1,2 @@
+16:41:51.771 [main] INFO  ibm.houxyi.Log4j2Test.main(Log4j2Test.java:25) - 请求处理结束，耗时：61072毫秒
+16:41:51.777 [main] INFO  ibm.houxyi.Log4j2Test.main(Log4j2Test.java:26) - 请求处理结束，耗时：61081毫秒
